@@ -1,0 +1,8 @@
+{
+  "provider": "openai",
+  "defaults": {
+    "fast-helper": "gpt-5.4",
+    "conversation": "gpt-5.5",
+    "agentic": "gpt-5.5"
+  }
+}
